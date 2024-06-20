@@ -47,7 +47,7 @@ Welcome to the Airbnb property Listing project! This project aims to replicate s
 
 ---
 
-This Airbnb property Listing Site is live at:- https://airbnb-property-listing.netlify.app/
+This Airbnb property Listing Site is live at:- https://pratyushsharma07.github.io/AirBnB-Property-Listing/
 
 ---
 
